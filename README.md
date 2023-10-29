@@ -51,7 +51,5 @@
 | 47 | [Panda E-commerce Website](https://github.com/FaysalMiah55/panda-ecommerce) | [Live Demo](https://faysalmiah55.github.io/panda-ecommerce/) |
 | 48 | [Health Panel](https://github.com/FaysalMiah55/health-panel) | [Live Demo](https://faysalmiah55.github.io/health-panel/) |
 | 49 | [Acting World](https://github.com/FaysalMiah55/acting-world) | [Live Demo](https://faysalmiah55.github.io/acting-world/) |
-|  | []() | [Live Demo]() |
-|  | []() | [Live Demo]() |
 
 
